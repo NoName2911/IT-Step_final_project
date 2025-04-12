@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b450db7-e6de-4a6d-8c59-22b4d2c670ff" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/final_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_project_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/final_project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,24 +48,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.class imitation.executor": "Run",
-    "Python.final_project.executor": "Run",
-    "Python.h.executor": "Run",
-    "Python.home_work_5.executor": "Run",
-    "Python.home_work_6.executor": "Run",
-    "Python.home_work_8.executor": "Run",
-    "Python.lesson_1.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.modify.executor": "Run",
-    "Python.parsing.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.class imitation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.h.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modify.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parsing.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -154,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744395072467</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="init">
+      <option name="closed" value="true" />
+      <created>1744447564596</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744447564596</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
