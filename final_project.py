@@ -72,7 +72,7 @@ class DniproM:
             print("Скільки ви хочете одиниць купити?")
             purchase = input("Хочете ще щось?")
             if purchase  != "так":
-            shop = False
+        shop = False
 
     def snowinfo(self, catalog):
 
